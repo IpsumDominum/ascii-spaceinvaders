@@ -5,11 +5,11 @@ Add your own skins by changing object.py and more.
 
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="/asciinema-player.css" />
+  <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
 </head>
 <body>
   <asciinema-player src="/267084.cast" cols="150" rows="50"></asciinema-player>
   ...
-  <script src="/asciinema-player.js"></script>
+  <script src="asciinema-player.js"></script>
 </body>
 </html>
